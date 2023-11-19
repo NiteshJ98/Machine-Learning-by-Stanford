@@ -18,7 +18,7 @@ The "Machine Learning" course, taught by Andrew Ng, is a foundational course in 
 
 ## Structure
 
-The repository is organized by weeks, with each week's materials and programming assignments stored in their respective directories (`Week1`, `Week2`, etc.). The assignments include both coding exercises and theoretical questions to reinforce your understanding.
+The repository is organized by Programming assignments, associated with different weeks (`Week1`, `Week2`, etc.). The assignments include  coding exercises only.
 
 ## Getting Started
 
